@@ -19,7 +19,7 @@
                     <label>Student: <strong>{{ $student_1 }}</strong></label>
                     <div class="col col-md-4">
                         <label>Midterm Grade</label>
-                        <input type="number" name="s1_midterm" class="form-control">
+                        <input type="number" name="s1_midterm" class="form-control" >
                     </div>
                     <div class="col col-md-4">
                         <label>Final Grade</label>
