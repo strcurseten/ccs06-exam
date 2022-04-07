@@ -22,13 +22,14 @@
                     <td>{{ $s1_midterm }}</td>
                     <td>{{ $s1_final }}</td>
                     <td>{{ $s1_average }}</td>
-              
+                    <td>{{ $s1_remark }}</td>
                 </tr>
                 <tr>
                     <td>{{ $student_2 }}</td>
                     <td>{{ $s2_midterm }}</td>
                     <td>{{ $s2_final }}</td>
                     <td>{{ $s2_average }}</td>
+                    <td>{{ $s2_remark }}</td>
                  
                 </tr>
                 <tr>
@@ -36,6 +37,7 @@
                     <td>{{ $s3_midterm }}</td>
                     <td>{{ $s3_final }}</td>
                     <td>{{ $s3_average }}</td>
+                    <td>{{ $s3_remark }}</td>
                   
                 </tr>
                 <tr>
@@ -43,6 +45,7 @@
                     <td>{{ $s4_midterm }}</td>
                     <td>{{ $s4_final }}</td>
                     <td>{{ $s4_average }}</td>
+                    <td>{{ $s4_remark }}</td>
           
                 </tr>
                 <tr>
@@ -50,6 +53,7 @@
                     <td>{{ $s5_midterm }}</td>
                     <td>{{ $s5_final }}</td>
                     <td>{{ $s5_average }}</td>
+                    <td>{{ $s5_remark }}</td>
               
                 </tr>
             </tbody>
